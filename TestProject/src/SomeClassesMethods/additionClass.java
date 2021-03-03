@@ -7,6 +7,9 @@ public class additionClass {
 		int b=3;
 		int c=a+b;
 		System.out.println(c);
+		
+		int d=c*a-b;
+		System.out.println(d);
 	}
 //added comment 
 	//added comment for git hub
